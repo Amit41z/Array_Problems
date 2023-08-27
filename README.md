@@ -1,0 +1,1 @@
+# Common Array problems asked in most of the technical rounds. 
